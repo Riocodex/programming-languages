@@ -29,25 +29,42 @@
 
 -	SCALA:Scala is used in Data processing, distributed computing, and web development. It powers the data engineering infrastructure of many companies.
 
-⦁	OBJECTIVE-C: Objective-C is the primary programming language you use when writing software for OS X and iOS. It's a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime.
-⦁	ASSEMBLY-LANGUAGE: Assembly language is used to directly manipulate hardware, access specialized processor instructions, or evaluate critical performance issues. These languages are also used to leverage their speed advantage over high level languages for time-sensitive activities such as high frequency trading.
-⦁	FORTRAN: FORTRAN was designed for scientists and engineers, and has dominated this field. For the past 30 years FORTRAN has been used for such projects as the design of bridges and aeroplane structures, it is used for factory automation control, for storm drainage design, analysis of scientific data and so on.
-⦁	HASKELL: Designed for teaching, research and industrial applications, Haskell has pioneered a number of programming language features such as type classes, which enable type-safe operator overloading, and monadic IO. Haskell's main implementation is the Glasgow Haskell Compiler (GHC).
-⦁	COBOL: COBOL was designed for business computer programs in industries such as finance and human resources. Unlike some high-level computer programming languages, COBOL uses English words and phrases to make it easier for ordinary business users to understand.
-⦁	MATLAB: Millions of engineers and scientists worldwide use MATLAB for a range of applications, in industry and academia, including deep learning and machine learning, signal processing and communications, image and video processing, control systems, test and measurement, computational finance, and computational biology.
-⦁	ADA: Ada improves code safety and maintainability by using the compiler to find errors in favor of runtime errors. Ada is an international technical standard, jointly defined by the International Organization for Standardization (ISO), and the International Electrotechnical Commission (IEC).
-⦁	TYPESCRIPT: TypeScript may be used to develop JavaScript applications for both client-side and server-side execution (as with Node. js or Deno). Multiple options are available for transpilation. The default TypeScript Compiler can be used, or the Babel compiler can be invoked to convert TypeScript to JavaScript.
-⦁	PASCAL: Pascal allows the programmers to define complex structured data types and build dynamic and recursive data structures, such as lists, trees and graphs. Pascal offers features like records, enumerations, subranges, dynamically allocated variables with associated pointers and sets.
-⦁	LISP: Lisp, an acronym for list processing, is a functional programming language that was designed for easy manipulation of data strings. As one of the oldest programming languages still in use, Lisp offers several different dialects and has influenced the development of other languages.	
-⦁	LUA: Lua can be used in everyday applications to extend the existing functionality or create new features and functions. Some popular games, programs, and services that use Lua are Dark Souls, Fable II, Garry's Mod, Wireshark, VLC, Apache, and Nginx Web Servers
-⦁	BASIC: BASIC has frequently been used in teaching the introductory concepts of programming with a working language. BASIC continues to be widely used because it can be learned quickly, its statements are easy to read by other programmers, and support is available on most operating systems (OS).
-⦁	ERLANG: Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging.
+-	OBJECTIVE-C: Objective-C is the primary programming language you use when writing software for OS X and iOS. It's a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime. 
 
-⦁	ALGOL: Formerly known as IAL, ALGOL is short for algorithmic language. It is a family of portable programming languages for scientific computations that had a strong influence on other languages. Additionally, ALGOL was used as the standard method for creating algorithms by the ACM in textbooks and academia for over 30 year
-⦁	SMALLTALK:Smalltalk was the first graphical language tool to support live programming and advanced debugging techniques such as on-the-fly inspection and code changes during execution in a very user-friendly format.
-⦁	CLOJURE: Clojure is a practical and pragmatic language. It helps to organize a fast and efficient software development process. So, I can recommend it for rapid prototyping and lean startups. It's an important feature for building extensible and flexible systems.
-⦁	PROLOG: Prolog has been used largely for logic programming, and its applications include natural language understanding and expert systems such as MYCIN. Prolog is notably a so-called nonprocedural, or declarative, language in the sense that the programmer specifies what goals are to be accomplished but not
-⦁	JULIA:Julia is a general-purpose programming language, while also originally designed for numerical/technical computing. It is also useful for low-level systems programming, as a specification language, High-level Synthesis (HLS) tool (for hardware, e.g. FPGAs), and for web programming at both server and client side.
+-	ASSEMBLY-LANGUAGE: Assembly language is used to directly manipulate hardware, access specialized processor instructions, or evaluate critical performance issues. These languages are also used to leverage their speed advantage over high level languages for time-sensitive activities such as high frequency trading.
+
+-	FORTRAN: FORTRAN was designed for scientists and engineers, and has dominated this field. For the past 30 years FORTRAN has been used for such projects as the design of bridges and aeroplane structures, it is used for factory automation control, for storm drainage design, analysis of scientific data and so on.
+
+-	HASKELL: Designed for teaching, research and industrial applications, Haskell has pioneered a number of programming language features such as type classes, which enable type-safe operator overloading, and monadic IO. Haskell's main implementation is the Glasgow Haskell Compiler (GHC).
+
+-	COBOL: COBOL was designed for business computer programs in industries such as finance and human resources. Unlike some high-level computer programming languages, COBOL uses English words and phrases to make it easier for ordinary business users to understand.
+
+-	MATLAB: Millions of engineers and scientists worldwide use MATLAB for a range of applications, in industry and academia, including deep learning and machine learning, signal processing and communications, image and video processing, control systems, test and measurement, computational finance, and computational biology.
+
+-	ADA: Ada improves code safety and maintainability by using the compiler to find errors in favor of runtime errors. Ada is an international technical standard, jointly defined by the International Organization for Standardization (ISO), and the International Electrotechnical Commission (IEC).
+
+-	TYPESCRIPT: TypeScript may be used to develop JavaScript applications for both client-side and server-side execution (as with Node. js or Deno). Multiple options are available for transpilation. The default TypeScript Compiler can be used, or the Babel compiler can be invoked to convert TypeScript to JavaScript.
+
+-	PASCAL: Pascal allows the programmers to define complex structured data types and build dynamic and recursive data structures, such as lists, trees and graphs. Pascal offers features like records, enumerations, subranges, dynamically allocated variables with associated pointers and sets.
+
+-	LISP: Lisp, an acronym for list processing, is a functional programming language that was designed for easy manipulation of data strings. As one of the oldest programming languages still in use, Lisp offers several different dialects and has influenced the development of other languages.
+
+-	LUA: Lua can be used in everyday applications to extend the existing functionality or create new features and functions. Some popular games, programs, and services that use Lua are Dark Souls, Fable II, Garry's Mod, Wireshark, VLC, Apache, and Nginx Web Servers.
+
+-	BASIC: BASIC has frequently been used in teaching the introductory concepts of programming with a working language. BASIC continues to be widely used because it can be learned quickly, its statements are easy to read by other programmers, and support is available on most operating systems (OS).
+
+-	ERLANG: Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging.
+
+-	ALGOL: Formerly known as IAL, ALGOL is short for algorithmic language. It is a family of portable programming languages for scientific computations that had a strong influence on other languages. Additionally, ALGOL was used as the standard method for creating algorithms by the ACM in textbooks and academia for over 30 year.
+
+-	SMALLTALK:Smalltalk was the first graphical language tool to support live programming and advanced debugging techniques such as on-the-fly inspection and code changes during execution in a very user-friendly format.
+
+-	CLOJURE: Clojure is a practical and pragmatic language. It helps to organize a fast and efficient software development process. So, I can recommend it for rapid prototyping and lean startups. It's an important feature for building extensible and flexible systems.
+
+-	PROLOG: Prolog has been used largely for logic programming, and its applications include natural language understanding and expert systems such as MYCIN. Prolog is notably a so-called nonprocedural, or declarative, language in the sense that the programmer specifies what goals are to be accomplished.
+
+-	JULIA:Julia is a general-purpose programming language, while also originally designed for numerical/technical computing. It is also useful for low-level systems programming, as a specification language, High-level Synthesis (HLS) tool (for hardware, e.g. FPGAs), and for web programming at both server and client side.
+
 ⦁	GROOVY: Groovy is a dynamic object-oriented programming language for the Java virtual machine (JVM) that can be used anywhere Java is used. The language can be used to combine Java modules, extend existing Java applications and write new applications.
 ⦁	SCHEME:Scheme Programming language is typically used to write to write text editing programs, analyse and optimise application-based compilers, write drivers for graphics cards, develop operating systems, and many more.
 ⦁	ELIXIR: Elixir was aimed for large-scale sites and apps. Elixir uses features of Ruby, Erlang, and Clojure to develop a "high-concurrency" and "low-latency" language. Elixir was designed to handle large data volumes. Elixir is used in telecommunication, eCommerce, and finance industries.
