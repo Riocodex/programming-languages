@@ -1,9 +1,10 @@
-## ONWUKA ROSARIO
-## TASK:Purposes of other programming languages
+## ONWUKA ROSARIO (W)
+## TASK: Purposes of other programming languages
 
-⦁	Java : Developers use Java to construct applications in laptops, data centres, game consoles, scientific supercomputers, cell phones, and other devices.
+-	Java : Developers use Java to construct applications in laptops, data centres, game consoles, scientific supercomputers, cell phones, and other devices.
 
-⦁	 Python:Python is  a computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
+- Python:Python is  a computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
+
 ⦁	Solidity: The purpose of Solidity focuses solely on the creation of smart contracts, and the EVM is responsible for running the smart contracts.
 ⦁	C#: Like other general-purpose programming languages, C# can be used to create a number of different programs and applications: mobile apps, desktop apps, cloud-based services, websites, enterprise software and games. Lots and lots of games.
 ⦁	C++: C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc
