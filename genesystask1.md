@@ -3,13 +3,18 @@
 
 -	Java : Developers use Java to construct applications in laptops, data centres, game consoles, scientific supercomputers, cell phones, and other devices.
 
-- Python:Python is  a computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
+- Python : Python is  a computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
 
-⦁	Solidity: The purpose of Solidity focuses solely on the creation of smart contracts, and the EVM is responsible for running the smart contracts.
-⦁	C#: Like other general-purpose programming languages, C# can be used to create a number of different programs and applications: mobile apps, desktop apps, cloud-based services, websites, enterprise software and games. Lots and lots of games.
-⦁	C++: C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc
-⦁	C: C programming language is a machine-independent programming language that is mainly used to create many types of applications and operating systems such as Windows, and other complicated programs such as the Oracle database, Git, Python interpreter, and games
-⦁	PHP: PHP (Hypertext Preprocessor) is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites. It was among the first server-side languages that could be embedded into HTML, making it easier to add functionality to web pages without needing to call external files for data.
+-	Solidity : The purpose of Solidity focuses solely on the creation of smart contracts, and the EVM is responsible for running the smart contracts.
+
+-	C# : Like other general-purpose programming languages, C# can be used to create a number of different programs and applications: mobile apps, desktop apps, cloud-based services, websites, enterprise software and games. Lots and lots of games.
+
+-	C++ : C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures etc.
+
+- 	C : C programming language is a machine-independent programming language that is mainly used to create many types of applications and operating systems such as Windows, and other complicated programs such as the Oracle database, Git, Python interpreter, and games.
+
+-	PHP : PHP (Hypertext Preprocessor) is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites. It was among the first server-side languages that could be embedded into HTML, making it easier to add functionality to web pages without needing to call external files for data.
+
 ⦁	DART: Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
 ⦁	SQL: SQL is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems. SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database.
 ⦁	SWIFT: Swift is a robust and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV, and Apple Watch. It's designed to give developers more freedom than ever. Swift is easy to use and open source, so anyone with an idea can create something incredible.
