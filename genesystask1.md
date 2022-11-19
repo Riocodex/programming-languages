@@ -15,13 +15,20 @@
 
 -	PHP : PHP (Hypertext Preprocessor) is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites. It was among the first server-side languages that could be embedded into HTML, making it easier to add functionality to web pages without needing to call external files for data.
 
-⦁	DART: Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
-⦁	SQL: SQL is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems. SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database.
-⦁	SWIFT: Swift is a robust and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV, and Apple Watch. It's designed to give developers more freedom than ever. Swift is easy to use and open source, so anyone with an idea can create something incredible.
-⦁	RUBY: Ruby is mainly used to build web applications and is useful for other programming projects. It is widely used for building servers and data processing, web scraping, and crawling. The leading framework used to run Ruby is Ruby on Rails, although that's not the only one
-⦁	KOTLIN: Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety.You can use Kotlin for developing not only Android but also iOS, backend, and web applications. Enjoy the benefits of sharing the common code among the platforms. Code safety. Less code and better readability lead to fewer errors.
-⦁	PEARL: Perl is a high-level, interpreted, general-purpose programming language originally developed for text manipulation. It borrows many features from C and Shell script and is used for system administration, networking, and other applications that involve user interfaces.
-⦁	SCALA:Scala is used in Data processing, distributed computing, and web development. It powers the data engineering infrastructure of many companies.
+-	DART : Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
+
+-	SQL : SQL is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems. SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database.
+
+-	SWIFT : Swift is a robust and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV, and Apple Watch. It's designed to give developers more freedom than ever. Swift is easy to use and open source, so anyone with an idea can create something incredible.
+
+-	RUBY: Ruby is mainly used to build web applications and is useful for other programming projects. It is widely used for building servers and data processing, web scraping, and crawling. The leading framework used to run Ruby is Ruby on Rails, although that's not the only one.
+
+-	KOTLIN: Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety.You can use Kotlin for developing not only Android but also iOS, backend, and web applications. Enjoy the benefits of sharing the common code among the platforms. Code safety. Less code and better readability lead to fewer errors.
+
+-	PEARL: Perl is a high-level, interpreted, general-purpose programming language originally developed for text manipulation. It borrows many features from C and Shell script and is used for system administration, networking, and other applications that involve user interfaces.
+
+-	SCALA:Scala is used in Data processing, distributed computing, and web development. It powers the data engineering infrastructure of many companies.
+
 ⦁	OBJECTIVE-C: Objective-C is the primary programming language you use when writing software for OS X and iOS. It's a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime.
 ⦁	ASSEMBLY-LANGUAGE: Assembly language is used to directly manipulate hardware, access specialized processor instructions, or evaluate critical performance issues. These languages are also used to leverage their speed advantage over high level languages for time-sensitive activities such as high frequency trading.
 ⦁	FORTRAN: FORTRAN was designed for scientists and engineers, and has dominated this field. For the past 30 years FORTRAN has been used for such projects as the design of bridges and aeroplane structures, it is used for factory automation control, for storm drainage design, analysis of scientific data and so on.
