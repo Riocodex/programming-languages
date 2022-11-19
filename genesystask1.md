@@ -65,13 +65,22 @@
 
 -	JULIA:Julia is a general-purpose programming language, while also originally designed for numerical/technical computing. It is also useful for low-level systems programming, as a specification language, High-level Synthesis (HLS) tool (for hardware, e.g. FPGAs), and for web programming at both server and client side.
 
-⦁	GROOVY: Groovy is a dynamic object-oriented programming language for the Java virtual machine (JVM) that can be used anywhere Java is used. The language can be used to combine Java modules, extend existing Java applications and write new applications.
-⦁	SCHEME:Scheme Programming language is typically used to write to write text editing programs, analyse and optimise application-based compilers, write drivers for graphics cards, develop operating systems, and many more.
-⦁	ELIXIR: Elixir was aimed for large-scale sites and apps. Elixir uses features of Ruby, Erlang, and Clojure to develop a "high-concurrency" and "low-latency" language. Elixir was designed to handle large data volumes. Elixir is used in telecommunication, eCommerce, and finance industries.
-⦁	APL: APL is an array-oriented programming language that will change the way you think about problems and data. With a powerful, concise syntax, it lets you develop shorter programs that enable you to think more about the problem you're trying to solve than how to express it to a computer.
-⦁	NIM: Nim is a multi-paradigm programming language that offers powerful customization options with the ability to compile to everything from C to JavaScript. It can be used in any project and illustrates that you don't have to sacrifice performance for expressiveness!
-⦁	EIFFEL: Eiffel is a purely object-oriented language but provides an open architecture for interfacing with "external" software in any other programming language. It is possible for example to program machine- and operating-system level operations in C.
-⦁	SIMULA: Simula is based on the language ALGOL 60, and its purpose was the simulation of complex computing systems. Simula was the first programming language to use objects, classes, subclasses, and inheritance, and is considered to be the first object-oriented programming langua
-⦁	FORTH: Forth is used in the Open Firmware boot loader, in space applications such as the Philae spacecraft, and in other embedded systems which involve interaction with hardware.
-⦁	ABAP: ABAP is a programming language developed by SAP for the development of business applications in the SAP environment. The ABAP Objects component makes object-oriented programming possible. ABAP is the programming interface of Application Server ABAP (AS ABAP) in SAP NetWeaver.
-⦁	TCL: Tool command language (Tcl) is a powerful scripting language with programming features. It is available across Unix, Windows and Mac OS platforms. Tcl is used for Web and desktop applications, networking, administration, testing, rapid prototyping, scripted applications and graphical user interfaces (GUI).
+-	GROOVY: Groovy is a dynamic object-oriented programming language for the Java virtual machine (JVM) that can be used anywhere Java is used. The language can be used to combine Java modules, extend existing Java applications and write new applications.
+
+-	SCHEME:Scheme Programming language is typically used to write to write text editing programs, analyse and optimise application-based compilers, write drivers for graphics cards, develop operating systems, and many more.
+
+-	ELIXIR: Elixir was aimed for large-scale sites and apps. Elixir uses features of Ruby, Erlang, and Clojure to develop a "high-concurrency" and "low-latency" language. Elixir was designed to handle large data volumes. Elixir is used in telecommunication, eCommerce, and finance industries.
+
+-	APL: APL is an array-oriented programming language that will change the way you think about problems and data. With a powerful, concise syntax, it lets you develop shorter programs that enable you to think more about the problem you're trying to solve than how to express it to a computer.
+
+-	NIM: Nim is a multi-paradigm programming language that offers powerful customization options with the ability to compile to everything from C to JavaScript. It can be used in any project and illustrates that you don't have to sacrifice performance for expressiveness!
+
+-	EIFFEL: Eiffel is a purely object-oriented language but provides an open architecture for interfacing with "external" software in any other programming language. It is possible for example to program machine- and operating-system level operations in C.
+
+-	SIMULA: Simula is based on the language ALGOL 60, and its purpose was the simulation of complex computing systems. Simula was the first programming language to use objects, classes, subclasses, and inheritance, and is considered to be the first object-oriented programming languages.
+
+-	FORTH: Forth is used in the Open Firmware boot loader, in space applications such as the Philae spacecraft, and in other embedded systems which involve interaction with hardware.
+
+-	ABAP: ABAP is a programming language developed by SAP for the development of business applications in the SAP environment. The ABAP Objects component makes object-oriented programming possible. ABAP is the programming interface of Application Server ABAP (AS ABAP) in SAP NetWeaver.
+
+-	TCL: Tool command language (Tcl) is a powerful scripting language with programming features. It is available across Unix, Windows and Mac OS platforms. Tcl is used for Web and desktop applications, networking, administration, testing, rapid prototyping, scripted applications and graphical user interfaces (GUI).
